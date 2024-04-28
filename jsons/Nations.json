@@ -1,31 +1,29 @@
 [
 	{
-		"name": "",
-		"leaderName": "",
-		"adjective": [""],
+		"name": "The Cain Complex",
+		"leaderName": "Tubal-cain",
+		"adjective": ["Levantine"],
 		
-		"startBias": [""],
-		"preferredVictoryType": "",
+		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "",
-		"startIntroPart2": "",
+		"startIntroPart1": "Each individual has something that tethers them to reality. The forge is my anchor on this earth. It's how, after all this time, I'm still here. Students gather around from all over the world, and return to their tribes with the tools to bring glory. Now my pupils, old and new alike, gather to forge this world in our image.",
+		"startIntroPart2": "So, tell me. Where do you seek to be when the time comes? Will you surpass your peers and mark your craft in the script of history. Will you bring the students and my name glory, my son? Will you go on to surpass the test of time?",
 		
-		"declaringWar": "",
-		"attacked": "",
-		"defeated": "",
-		"introduction": "",
+		"declaringWar": "Ready yourself, for your metal and mettle will be tested.",
+		"attacked": "Very well. More metal for the forge!",
+		"defeated": "So the forges go cold tonight. Take care, pupil.",
+		"introduction": "Greetings. Do the burning coals pique your interest?",
 		
-		"neutralHello": "",
-		"hateHello": "",
-		"tradeRequest": "",
+		"neutralHello": "Welcome",
+		"hateHello": "What brings you here?",
+		"tradeRequest": "I have a deal. Are you interested?",
 		
-		"outerColor": [0,0,0],
-		"innerColor": [0,0,0],
+		"outerColor": [213,41,65],
+		"innerColor": [52,49,45],
 		
-		"favoredReligion": "",
-		
-		"uniqueName": "",
-		"uniques": [],
-		"cities": []
+		"uniqueName": "Way of Hephaestus",
+		"uniques": ["[+1 Science, +2 Production] from every [Mine]"],
+		"cities": ["Tuval"],
+		"spyNames": ["Magos", "Jubal", "Jabal", "Yzebel", "Jared", "Irad", "Zinnridi", "Kenah", "Michal"]
 	}
 ]
