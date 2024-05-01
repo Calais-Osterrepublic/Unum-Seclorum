@@ -1,0 +1,17 @@
+[
+	{
+		"name": "INSERT",
+		"unitType": "Sword",
+		"uniqueTo": "INSERT",
+    "replaces": "Longswordsman",
+		"movement": 2,
+		"strength": 25,
+		"cost": 110,
+		"requiredTech": "Iron Working",
+    "upgradesTo": "Musketman",
+		"obsoleteTech": "Metal Casting",
+    "promotions": ["Survivalism II"],
+		"uniques": [],
+		"attackSound": "metalhit"
+	},
+]
