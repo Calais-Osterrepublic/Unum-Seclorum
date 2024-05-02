@@ -1,17 +1,17 @@
 [
 	{
-		"name": "INSERT",
+		"name": "Scholar-Blade",
 		"unitType": "Sword",
 		"uniqueTo": "The Cain Complex",
     		"replaces": "Longswordsman",
 		"movement": 2,
-		"strength": 30,
+		"strength": 28,
 		"cost": 110,
 		"requiredTech": "Metal Casting",
     		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
-    		"promotions": ["Survivalism II"],
-		"uniques": [],
+    		"promotions": ["Quick Study", "March"],
+		"uniques": ["Only available <in cities with a [Tonal Forge]>"],
 		"attackSound": "metalhit"
 	},
 ]
