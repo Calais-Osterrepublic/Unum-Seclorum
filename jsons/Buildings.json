@@ -11,7 +11,7 @@
 		"uniques": [
 			"[+25]% Production when constructing [{Melee} {Land}] units [in this city]",
 			"[+1 Production] from [Iron] tiles [in this city]",
-			"Must have an owned [Iron] within [amount] tiles"
+			"Must have an owned [Iron] within [2] tiles"
 		],
 		"requiredTech": "Metal Casting"
 	},
