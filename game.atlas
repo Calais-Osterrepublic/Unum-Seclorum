@@ -1,0 +1,26 @@
+game.png
+size: 300,100
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+BuildingIcons/Sevenfold Hearth
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/The Cain Complex
+  rotate: false
+  xy: 200, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Scholar Blade
+  rotate: false
+  xy: 100, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
