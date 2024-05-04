@@ -1,17 +1,16 @@
 [
 	{
-		"name": "Tonal Forge",
+		"name": "Sevenfold Crucible",
 		"replaces": "Forge",
 		"uniqueTo": "The Cain Complex",
 		"cost": 100,
 		"maintenance": 5,
 		"production": 2,
-		"science": 1,
-		"specialistSlots": {"Engineer": 1},
+		"specialistSlots": {"Engineer": 2},
 		"hurryCostModifier": 25,
 		"uniques": [
 			"[+25]% Production when constructing [{Melee} {Land}] units [in this city]",
-			"[+2 Culture] from [Iron] tiles [in this city]",
+			"[+1 Production] from [Iron] tiles [in this city]",
 			"Must have an owned [Iron] within [amount] tiles"
 		],
 		"requiredTech": "Metal Casting"
