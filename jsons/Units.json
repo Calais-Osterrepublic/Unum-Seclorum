@@ -13,7 +13,7 @@
     		"promotions": ["Quick Study", "March"],
 		"uniques": [
 			"Only available <in cities with a [Sevenfold Hearth]>",
-			"When defeating a [Land] unit, earn [100] Gold and recruit it"
+			"Gain [10]-[200] [Culture] <upon defeating a [Land] unit>"
 		],
 		"attackSound": "metalhit"
 	},
