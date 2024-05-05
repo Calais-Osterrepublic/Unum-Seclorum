@@ -5,13 +5,16 @@
 		"uniqueTo": "The Cain Complex",
     		"replaces": "Longswordsman",
 		"movement": 2,
-		"strength": 28,
-		"cost": 110,
+		"strength": 20,
+		"cost": 200,
 		"requiredTech": "Metal Casting",
     		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
     		"promotions": ["Quick Study", "March"],
-		"uniques": ["Only available <in cities with a [Tonal Forge]>"],
+		"uniques": [
+			"Only available <in cities with a [Sevenfold Hearth]>",
+			"When defeating a [Land] unit, earn [100] Gold and recruit it"
+		],
 		"attackSound": "metalhit"
 	},
 ]
