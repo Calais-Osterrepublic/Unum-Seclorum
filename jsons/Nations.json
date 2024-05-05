@@ -22,8 +22,11 @@
 		"innerColor": [52,49,45],
 		
 		"uniqueName": "Way of Hephaestus",
-		"uniques": ["[+1 Science, +2 Production] from every [Mine]"],
-		"cities": ["Tuval"],
+		"uniques": [
+			"[+1 Culture, +1 Production] from every [Mine]",
+			"[+100]% Yield from every [Quarry] <after discovering [Chemistry]>"
+		],
+		"cities": ["Tuval","Homs","Hama","Lattakia","Idlib","Zahle", "Nabatieh","Amman","Irbid","Madaba"],
 		"spyNames": ["Magos", "Jubal", "Jabal", "Yzebel", "Jared", "Irad", "Zinnridi", "Kenah", "Michal"]
 	}
 ]
