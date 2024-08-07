@@ -1,20 +1,20 @@
 [
 	{
-		"name": "The Cain Complex",
-		"leaderName": "Tubal-cain",
-		"adjective": ["Levantine"],
+		"name": "Unum Seclorum",
+		"leaderName": "Thomas Pinckney",
+		"adjective": ["American"],
 		
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "Each individual has something that tethers them to reality. The forge is my anchor on this earth. It's how, after all this time, I'm still here. Students gather around from all over the world, and return to their tribes with the tools to bring glory. Now my pupils, old and new alike, gather to forge this world in our image.",
-		"startIntroPart2": "So, tell me. Where do you seek to be when the time comes? Will you surpass your peers and mark your craft in the script of history. Will you bring the students and my name glory, my son? Will you go on to surpass the test of time?",
+		"startIntroPart1": "A new century dawns upon our World. Pinckney",
+		"startIntroPart2": "",
 		
 		"declaringWar": "Ready yourself, for your metal and mettle will be tested.",
 		"attacked": "Very well. More metal for the forge!",
 		"defeated": "So the forges go cold tonight. Take care, pupil.",
 		"introduction": "Greetings. Do the burning coals pique your interest?",
 		
-		"neutralHello": "Welcome",
+		"neutralHello": "",
 		"hateHello": "What brings you here?",
 		"tradeRequest": "I have a deal. Are you interested?",
 		
