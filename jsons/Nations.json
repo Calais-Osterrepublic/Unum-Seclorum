@@ -1,32 +1,32 @@
 [
 	{
 		"name": "Unum Seclorum",
-		"leaderName": "Douglas MacArthur",
+		"leaderName": "Imperator Douglas",
 		"adjective": ["American"],
 		
 		"preferredVictoryType": "Domination",
 		
-		//"startIntroPart1": "After the liberation of the East, our forces have been betrayed ",
-		//"startIntroPart2": "",
+		"startIntroPart1": "When the world crashed into flames, I alone stepped up and gave them an offer - let me bring order, and I will give you a century of peace. In the darkest of times, desperate folk will take desperate measures. In truth, I never bought into the Roman disguise I fed the people one bit. No matter what I did, this land would remain the land of the Founding Fathers. Perhaps they just needed a new coat of paint so the people would continue to believe.",
+		"startIntroPart2": "But now, the deal of the century is almost up. What do you plan to do now? Will peace last another century? Will you forge a legacy that will stand the test of time?",
 		
-		"declaringWar": "Ready yourself, for your metal and mettle will be tested.",
-		"attacked": "Very well. More metal for the forge!",
-		"defeated": "So the forges go cold tonight. Take care, pupil.",
-		"introduction": "Greetings. Do the burning coals pique your interest?",
+		"declaringWar": "Your existence is a threat to America. Prepare for war...",
+		"attacked": "What, you had a death wish?",
+		"defeated": "And so, dusk comes to America...",
+		"introduction": "Welcome. I am Imperator Douglas, Commissar of Congress and Defender of the Constitution.",
 		
-		"neutralHello": "",
-		"hateHello": "What brings you here?",
-		"tradeRequest": "I have a deal. Are you interested?",
+		"neutralHello": "Welcome.",
+		"hateHello": "What now?",
+		"tradeRequest": "America's markets remain open. What do you seek?",
 		
-		"outerColor": [213,41,65],
-		"innerColor": [52,49,45],
+		"outerColor": [82, 0, 0],
+		"innerColor": [255, 255, 255],
 		
-		"uniqueName": "Way of Hephaestus",
+		"uniqueName": "Century of Peace",
 		"uniques": [
-			"[+1 Culture, +1 Production] from every [Mine]",
-			"[+100]% Yield from every [Quarry] <after discovering [Chemistry]>"
+			"[+1 Food, +1 Production] from every [Farm] <during a Golden Age>",
+			"All newly-trained [{non-[Civilian]} {non-[Helicopter]} {Land}] units [in capital] receive the [Guardians of the Dream] promotion"
 		],
-		"cities": ["Tuval","Homs","Hama","Lattakia","Idlib","Zahle", "Nabatieh","Amman","Irbid","Madaba"],
-		"spyNames": ["Magos", "Jubal", "Jabal", "Yzebel", "Jared", "Irad", "Zinnridi", "Kenah", "Michal"]
+		"cities": ["Rock of Ravenna","Concordia","Dovenium","Providence","Nova Eboracum","Annapolis", "Columbia City","Indianapolis","Helena","Olympia Occidentia"],
+		"spyNames": ["Foxtrot", "Romeo", "Echo", "Delta", "Oscar", "November", "India", "Alpha", "Jupiter"]
 	}
 ]
