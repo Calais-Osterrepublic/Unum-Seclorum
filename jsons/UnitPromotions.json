@@ -4,7 +4,6 @@
 		"uniques": [
 			"[+15]% Strength <when fighting in [your] tiles> <when defending> <hidden from users>",
 			"Comment [+15% Strength when defending in your tiles]"
-		],
-		"unitTypes": ["Siege","Archery","Ranged Gunpowder"]
+		]
     }
 ]
