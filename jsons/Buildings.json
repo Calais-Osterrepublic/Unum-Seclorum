@@ -1,18 +1,33 @@
 [
 	{
-		"name": "Sevenfold Hearth",
-		"replaces": "Forge",
-		"uniqueTo": "The Cain Complex",
-		"cost": 100,
-		"maintenance": 5,
+		"name": "Greenhouse",
+		"replaces": "Workshop",
+		"uniqueTo": "Unum Seclorum",
+		"cost": 130,
+		"maintenance": 2,
 		"production": 2,
-		"specialistSlots": {"Engineer": 2},
+		"food": 2,
+		"specialistSlots": {"Engineer": 1},
 		"hurryCostModifier": 25,
+		"percentStatBonus": {"production": 10},
 		"uniques": [
-			"[+25]% Production when constructing [{Melee} {Land}] units [in this city]",
-			"[+1 Production] from [Iron] tiles [in this city]",
-			"Must have an owned [Iron] within [2] tiles"
-		],
+			"[+1 Food, -1 Production] from every [Engineer] <in this city>",
+			"[+33]% growth [in this city]"
+		]
 		"requiredTech": "Metal Casting"
+	},
+	{
+		"name": "Botanical Forum",
+		"replaces": "University",
+		"uniqueTo": "Unum Seclorum",
+		"cost": 170,
+		"maintenance": 2,
+		"food": 2,
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"science": 33},
+		"specialistSlots": {"Scientist": 1,"Artist": 1},
+		"requiredBuilding": "Greenhouse",
+		"uniques": ["[+1 Culture, +1 Science] from [Jungle] tiles [in this city]"],
+		"requiredTech": "Education"
 	},
 ]
