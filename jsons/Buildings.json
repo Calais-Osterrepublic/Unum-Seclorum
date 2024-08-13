@@ -11,7 +11,7 @@
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"production": 10},
 		"uniques": [
-			"[+1 Food, -1 Production] from every [Engineer] <in this city>",
+			"[+1 Food, +1 Production] from every [Engineer] <in this city>",
 			"[+33]% growth [in this city]"
 		]
 		"requiredTech": "Metal Casting"
@@ -25,7 +25,7 @@
 		"food": 2,
 		"hurryCostModifier": 15,
 		"percentStatBonus": {"science": 33},
-		"specialistSlots": {"Scientist": 1,"Artist": 1},
+		"specialistSlots": {"Engineer": 1,"Scientist": 1},
 		"requiredBuilding": "Greenhouse",
 		"uniques": ["[+1 Culture, +1 Science] from [Jungle] tiles [in this city]"],
 		"requiredTech": "Education"
