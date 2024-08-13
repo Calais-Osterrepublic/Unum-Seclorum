@@ -23,7 +23,7 @@
 		
 		"uniqueName": "Century of Peace",
 		"uniques": [
-			"[+1 Food, +1 Production] from every [Farm] <during a Golden Age>",
+			"[+2 Production] from every [Farm] <when at war>",
 			"All newly-trained [{non-[Civilian]} {non-[Helicopter]} {Land}] units [in capital] receive the [Guardians of the Dream] promotion"
 		],
 		"cities": ["Rock of Ravenna","Concordia","Dovenium","Providence","Nova Eboracum","Annapolis", "Columbia City","Indianapolis","Helena","Olympia Occidentia"],
