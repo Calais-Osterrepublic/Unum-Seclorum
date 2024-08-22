@@ -1,18 +1,16 @@
 [
 	{
-		"name": "Greenhouse",
+		"name": "Martial Workshop",
 		"replaces": "Workshop",
 		"uniqueTo": "Unum Seclorum",
 		"cost": 130,
 		"maintenance": 2,
 		"production": 2,
-		"food": 2,
 		"specialistSlots": {"Engineer": 1},
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"production": 10},
 		"uniques": [
-			"[+1 Food, +1 Production] from every [Engineer] <in this city>",
-			"[+33]% growth [in this city]"
+			"[+2 Production] [in cities with a garrison]"
 		]
 		"requiredTech": "Metal Casting"
 	},
