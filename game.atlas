@@ -1,25 +1,32 @@
 game.png
-size: 300,100
+size: 200,200
 format: RGBA8888
 filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
-BuildingIcons/Sevenfold Hearth
+BuildingIcons/Botanical Forum
+  rotate: false
+  xy: 100, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Martial Workshop
+  rotate: false
+  xy: 0, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Unum Seclorum
   rotate: false
   xy: 0, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/The Cain Complex
+UnitPromotionIcons/Guardians of the Dream
   rotate: false
-  xy: 200, 1
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Scholar Blade
-  rotate: false
-  xy: 100, 1
+  xy: 100, 100
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
