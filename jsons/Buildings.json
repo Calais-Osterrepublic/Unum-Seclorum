@@ -26,7 +26,6 @@
 		"hurryCostModifier": 15,
 		"percentStatBonus": {"science": 33},
 		"specialistSlots": {"Engineer": 1,"Scientist": 1},
-		"requiredBuilding": "Greenhouse",
 		"uniques": ["[+1 Culture, +1 Food] from [Jungle] tiles [in this city]"],
 		"requiredTech": "Education"
 	},
